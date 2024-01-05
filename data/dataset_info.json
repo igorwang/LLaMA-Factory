@@ -302,5 +302,14 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "citecls": {
+    "hf_hub_url": "igorwang/citecls",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
   }
 }
